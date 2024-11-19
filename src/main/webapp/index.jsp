@@ -8,8 +8,8 @@
 <body bgcolor="white">
 	<form method="get" action="./CalcServlet">
 
-		<input type="text" name="num1" placeholder="Enter Number1"> <br>
-		<input type="text" name="num2" placeholder="Enter Number2"> <br>
+		<input type="text" name="number1" placeholder="Enter Number1"> <br>
+		<input type="text" name="number2" placeholder="Enter Number2"> <br>
 
 		<br />
 		<br /> <select name="operations">
