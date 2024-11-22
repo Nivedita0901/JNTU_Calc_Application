@@ -18,9 +18,10 @@
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.projectKey>calculator</sonar.projectKey>
+		<sonar.projectversion>1.0</sonar.projectversion>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>sqp_254875cb449c78c29a2e8d7bc41dbc9a75d8df9f</sonar.login>
+		<sonar.login>sqp_f7d623f23d7ebf9e2be326efe971433ab0364fb8</sonar.login>
 
 	</properties>
 
